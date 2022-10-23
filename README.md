@@ -1,5 +1,5 @@
 # Artificial Neural Network [ANN]
-An attempt to build a whitebox and blackbox implementation of Atrificial Neural Networks to undersatnd how ANN learns.
+An attempt to build a whitebox and blackbox implementation of Artificial Neural Networks to undersatnd how ANN learns.
 
 # Data
 
@@ -23,3 +23,6 @@ An attempt to build a whitebox and blackbox implementation of Atrificial Neural 
   * Hidden Layer : Sigmoid
   * Output Layer : Sigmoid
   
+ # Results 
+ 
+  As expected the blackbox results were more accurate than whitebox. Whitebox results were biased towards output 1 even though it seemed to be learing and updating its    weights through back propagation.
