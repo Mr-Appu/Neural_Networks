@@ -12,5 +12,5 @@ An attempt to build a whitebox and blackbox implementation of Atrificial Neural 
   
   relation : y = $x_{1}$
   
-  2 Input variables $x_{1}$ , $x_{2}$ <br>
+  2 Input variables $x_{1}$ , $x_{2}$ \n
   1 Output variable y
