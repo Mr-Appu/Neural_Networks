@@ -1,7 +1,7 @@
 # Artificial Neural Network [ANN]
 An attempt to build a whitebox and blackbox implementation of Atrificial Neural Networks to undersatnd how ANN learns.
 
-#Data:
+Data:
 
   | $x_{1}$ | $x_{2}$ | y |
   | -- | -- | - |
